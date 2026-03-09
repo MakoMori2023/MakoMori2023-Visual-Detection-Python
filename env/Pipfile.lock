@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "0242e6d685fe3f71f58f3ea90af3b8665c9506960a4ebb345301890830d6b27f"
+            "sha256": "32fab10278eb2666e6adec4bdeca32d6906684fb991d1e42faee37402eca843b"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -288,6 +288,7 @@
             "hashes": [
                 "sha256:7634f50c427838bb021c2d66a3d1168e9d199b0607e6329399f04846d42e20b4"
             ],
+            "index": "pip_conf_index_global",
             "version": "==25.12.19"
         },
         "fonttools": {
@@ -626,7 +627,6 @@
                 "sha256:bccaabf9eb7f897ca61880ce2869dcd9b25b72129c28478e7f2a5e8dee945616",
                 "sha256:caf60c071ec391ba51ed00a4a920f996d0b64e3e46068aac1f646b5de0326a19"
             ],
-            "index": "pip_conf_index_global",
             "markers": "python_version >= '3.6'",
             "version": "==4.13.0.92"
         },
@@ -841,7 +841,6 @@
                 "sha256:fa160448684b4e94d80416c0fa4aac48967a969efe22931448d853ada8baf926",
                 "sha256:fc09d0aa354569bc501d4e787133afc08552722d3ab34836a80547331bb5d4a0"
             ],
-            "index": "pip_conf_index_global",
             "markers": "python_version >= '3.8'",
             "version": "==6.0.3"
         },

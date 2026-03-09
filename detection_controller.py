@@ -5,6 +5,7 @@ from face_detection import FaceDetection
 from hand_gesture_detection import HandGestureDetection
 from human_stickman_detection import HumanStickmanDetection
 from config import CONFIG
+from utils import flip_frame
 
 class DetectionController:
     def __init__(self):
